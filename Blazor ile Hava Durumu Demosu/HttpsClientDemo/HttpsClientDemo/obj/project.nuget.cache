@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SbdH0yeucWns4gDqgs2D1tybcWwxhvXjf3gta0xxmSoAYSS4TRiGv8nfAxIjzrCFiQC4MD3nIG/KrqeFbOkMbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mehmet\\source\\repos\\HttpsClientDemo\\HttpsClientDemo\\HttpsClientDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mehmet\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mehmet\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
